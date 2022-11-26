@@ -68,7 +68,7 @@ fonts:
        weight: 700
      - asset: assets/fonts/Raleway-Black.ttf
        weight: 900
- - family: RobotoCondesed
+ - family: RobotoCondensed
    fonts:
      - asset: assets/fonts/RobotoCondesed-Regular.ttf
      - asset: assets/fonts/RobotoCondesed-Bold.ttf
