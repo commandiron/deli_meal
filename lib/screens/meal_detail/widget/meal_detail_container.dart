@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-class SectionContainer extends StatelessWidget {
+class MealDetailContainer extends StatelessWidget {
 
   final Widget child;
 
-  SectionContainer({this.child});
+  MealDetailContainer({this.child});
 
   @override
   Widget build(BuildContext context) {

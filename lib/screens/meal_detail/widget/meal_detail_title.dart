@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-class SectionTitle extends StatelessWidget {
+class MealDetailTitle extends StatelessWidget {
 
   final String title;
 
-  SectionTitle(this.title);
+  MealDetailTitle(this.title);
 
   @override
   Widget build(BuildContext context) {
